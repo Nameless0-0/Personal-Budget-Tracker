@@ -27,3 +27,23 @@ A simple and user-friendly Personal Budget Tracker built using Python and Tkinte
    ```
    You can also run the Tracker.exe file directly in Dist.
 
+   ## Usage 
+
+1. **Add Income:**
+   - Navigate to the "Add Income" page and enter your income amount.
+
+2. **Add Expense:**
+   - Go to the "Add Expense" page, fill in the details, and categorize your expenses. 
+
+3. **View Summary:**
+   - Click on "View Summary" to see your total income, expenses, and balance.
+
+4. **Export Summary:**
+   - Use the "Export Summary" button to save your financial summary.
+     
+5. **Clear History:**
+   - If you want to reset your budget tracker, click "Clear History" and confirm your action.
+
+  
+   
+
