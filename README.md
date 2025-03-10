@@ -27,7 +27,7 @@ A simple and user-friendly Personal Budget Tracker built using Python and Tkinte
    ```
    You can also run the Tracker.exe file directly in Dist.
 
-   ## Usage 
+## Usage 
 
 1. **Add Income:**
    - Navigate to the "Add Income" page and enter your income amount.
