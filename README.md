@@ -16,4 +16,4 @@ A simple and user-friendly Personal Budget Tracker built using Python and Tkinte
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Nameless0-0/Personal-Budget-Tracker.git
-   cd Personal-Budget-Tracker ```
+   cd Personal-Budget-Tracker```
