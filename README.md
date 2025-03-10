@@ -1,4 +1,6 @@
 # Personal-Budget-Tracker
+![image](https://github.com/user-attachments/assets/289f40e2-51bc-42a8-8c1f-8ca797c66fd9)
+
 
 A simple and user-friendly Personal Budget Tracker built using Python and Tkinter. This application allows users to manage their income and expenses, view summaries, and export reports.
 
